@@ -1,6 +1,6 @@
 # Sorcerers_Wrath_V2
 
-Sorcerer's Wrath is a 2D platformer that served as the final project for GD2020, Intro to Game Design.
+Sorcerer's Wrath is a 2D platformer that served as the final project for DIG3725, Intro to Game Design.
 
 I developed version 1 of the game alongside a team of classmates.
 
