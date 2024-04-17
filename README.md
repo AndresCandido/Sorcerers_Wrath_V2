@@ -2,7 +2,7 @@
 
 Sorcerer's Wrath is a 2D platformer that served as the final project for DIG3725, Intro to Game Design.
 
-I developed version 1 of the game alongside a team of classmates.
+I developed version 1 of the game alongside a team of classmates.<br>
 Here is the link of the Repository we used:
 https://github.com/JohnnyBoy2001/Team4_Platformer
 
