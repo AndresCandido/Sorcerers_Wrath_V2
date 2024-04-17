@@ -6,5 +6,5 @@ I developed version 1 of the game alongside a team of classmates.<br>
 Here is the link of the Repository we used:
 https://github.com/JohnnyBoy2001/Team4_Platformer
 
-Version 2 is still a work in progress, but the original can be played with the link bellow:
+Version 2 is still a work in progress, but the original can be played with the link:
 https://identicalbug.itch.io/sorcerers-wrath-test
